@@ -1,0 +1,33 @@
+
+#header {
+  background: #d7dabd;
+}
+#wrapper {
+	background:
+		#f1f2ea url(background.gif) repeat-y right;
+	}
+#container {
+  width: 100%;
+  background:
+	#f1f2ea url(background.gif) repeat-y right;
+  float: left;
+  margin-right: -200px;
+}
+#content {
+  background: #f1f2ea;
+  margin-right: 200px;
+}
+#sidebar {
+  width: 200px;
+  float: right;
+ }
+#footer {
+  background: #d7dabd;
+  clear: both; 
+}
+h1 {
+	margin-top: 0;
+}
+.last {
+	margin-bottom: 0;
+}
